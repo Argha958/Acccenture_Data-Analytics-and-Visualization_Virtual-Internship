@@ -13,7 +13,6 @@ Client's Problem that Accenture is tasked to address : The client has reached a 
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 Accenture Project Team :
 
-![Uploading image.png…]()
 
 
 
@@ -21,3 +20,41 @@ Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+
+Task - 2
+Often you won’t need all these datasets to find what you’re looking for.
+So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+After Analysis we got data sets needed to complete analysis:
+Reaction Score(score is used to quantified the popularity)
+Content ID
+Reaction Types
+Content type
+Category
+Data Cleaning:
+Clean the data by:
+removing rows that have values which are missing,
+changing the data type of some values within a column, and
+removing columns which are not relevant to this task.
+Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+End result will be three cleaned data set :
+
+Reaction Types
+Reactions
+Content
+Data Modelling:
+Create a final data set by merging 3 tables
+
+End result will be one spreadsheet
+
+A cleaned dataset
+Top 5 categories
+
+Task - 3
+Data Visualization and Storytelling:
+Make the Powerpoint presentation as per the given template
+
+Charts Involved :
+
+Pie Chart
+Bar Chart
+Powerpoint Presentation : PPT
