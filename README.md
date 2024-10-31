@@ -1,4 +1,4 @@
-# Acccenture Data-Analytics and Visualization_Virtual_Internship
+# Acccenture Data Analytics and Visualization_Virtual_Internship
 
 Task - 1
 Project Understanding:
@@ -13,7 +13,8 @@ Client's Problem that Accenture is tasked to address : The client has reached a 
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 Accenture Project Team :
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3a6f7372-c392-4171-a9c9-7723d366f63c)
+
 
 
 
