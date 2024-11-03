@@ -65,3 +65,7 @@ Charts Involved :
 Pie Chart
 Bar Chart
 Powerpoint Presentation : PPT
+
+Task 4: Present to the Client
+
+This task focuses on preparing for a client presentation by ensuring data insights are conveyed in an accessible, business-friendly way. The presenter is encouraged to use the client’s terminology to demonstrate understanding of their business and needs. Confidence in delivering the results is emphasized, as it reflects a solid grasp of the data. Preparation and practice are key, with feedback from friends or family helping to refine the presentation. This task aims to enhance the presenter’s confidence, clarity, and alignment with the client's expectations
